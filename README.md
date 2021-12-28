@@ -50,7 +50,7 @@ cansend vcan0 001#1234567890ABCDEF
 
 >"Yukarıda verilen kod satırı ile can0 hattına 001 adresli 123456789ABCDEF mesajı göndermiş olduk."
 
-![ilk_çıktı](https://drive.google.com/file/d/1xnBxYHSut6NjyYxQMCEBp8VDIlk7gesb/view?usp=sharing)
+![ilk_çıktı](images/Screenshot 2021-12-28 21_40_22.png)
 
 $~~~~~
 $
@@ -66,7 +66,7 @@ cangen vcan0
 $~~~~~
 $
 
-[![Video1]()](https://drive.google.com/file/d/1EY71bTmAZ9pj06fh4wUd2bWJEjavZhin/view?usp=sharing)
+[![Video1]()](images/Screencast 2021-12-28 21_50_38.mp4)
 
 $~~~~~~
 $
@@ -90,15 +90,12 @@ while True:
     msg = bus.recv()
     print(msg)
 ```
-$~~~~~~
-$
-
-[![Video1]()](https://drive.google.com/file/d/1zVhAK2HCYXgYWpX7w3rMJ8_3Xilqb1ud/view?usp=sharing)
 
 
+[![Video1]()](images/Screencast 2021-12-28 21_52_15.mp4)
 
-$~~~~~~
-$
+
+
 
 
 ## SON
