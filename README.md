@@ -46,7 +46,7 @@ cansend vcan0 001#1234567890ABCDEF
 
 >"Yukarıda verilen kod satırı ile can0 hattına 001 adresli 123456789ABCDEF mesajı göndermiş olduk."
 
-![ilk_çıktı](images/Screenshot2021-12-28 21_40_22.png)
+![Screenshot2021-12-28 21_40_22](https://user-images.githubusercontent.com/81256525/147609388-a0cce51c-718a-43bb-af54-442ceaa3c8ec.png)
 
 
 ## STEP 3 
@@ -59,7 +59,7 @@ cangen vcan0
 
 
 
-[![Video1]()](images/Screencast2021-12-28 21_50_38.mp4)
+https://user-images.githubusercontent.com/81256525/147609461-42dbc17c-28bb-40a7-af19-00579800d0c8.mp4
 
 
 
@@ -84,7 +84,7 @@ while True:
 ```
 
 
-[![Video1]()](images/Screencast2021-12-28 21_52_15.mp4)
+https://user-images.githubusercontent.com/81256525/147609536-9592b0be-bcc1-4c73-9ee2-1026977d94ab.mp4
 
 
 
