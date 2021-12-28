@@ -10,8 +10,6 @@ Diğer iletişim protokollerine göre farkı; elektronik birimlerin adreslendiğ
 
 ### NOT: CAN Bus hattı linux işletim sistemi üzerinde simüle edilmektedir. Eğer linux işletim sistemi kurulu bir bilgisayarınız yoksa Windows üzerine virtual machine olarak ubuntu kurarak kolayca çalıştırabilirsiniz.
 
-$~~~~~
-$
 
 
 
@@ -31,8 +29,6 @@ sudo ip link set up vcan0
 
 >"İlk komut satırı ile bilgisarınızda bir nevi can sanal makinası kurdunuz. İkinci komut satırı ile bu sanal makinaya vcan0 adında bir CAN Bus hattı bağlanmanızı sağlar. Üçünü satır ile oluşturduğunuz sanal can hattı etkinleştirilir.  "
 
-$~~~~~~~
-$
 
 ## **STEP 2**
 
@@ -52,8 +48,6 @@ cansend vcan0 001#1234567890ABCDEF
 
 ![ilk_çıktı](images/Screenshot2021-12-28 21_40_22.png)
 
-$~~~~~
-$
 
 ## STEP 3 
 
@@ -63,13 +57,11 @@ $
 cangen vcan0
 ```
 
-$~~~~~
-$
+
 
 [![Video1]()](images/Screencast2021-12-28 21_50_38.mp4)
 
-$~~~~~~
-$
+
 
 ## STEP 4 
 
